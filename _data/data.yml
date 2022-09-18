@@ -64,29 +64,29 @@ education:
         time: 2022 - Present
         details: |
           Majored in Computer Science, supervised by Masato Taki.
-            - Deep learning
+            - Deep Learning
             - Computer Vision
       - degree: MSc in Artificial Intelligence
         university: Rikkyo University, Tokyo, Japan,
         time: 2020 - 2022
         details: |
           Majored in Computer Science, supervised by Masato Taki.
-            - Deep learning
+            - Deep Learning
             - Computer Vision
       - degree: MSc in Mathematics
         university: Hokkaido University, Sapporo, Japan,
         time: 2013 - 2015
         details: |
           Majored in Mathematics, supervised by Daisuke Matsushita
-            - Algebraic geometry
-            - Cluster algebra
+            - Algebraic Geometry
+            - Cluster Algebra
       - degree: BSc in Mathematics
         university: Rikkyo University, Tokyo, Japan
         time: 2008 - 2013
         details: |
           Majored in Mathematics, supervised by Noboru Aoki
-            - Algebraic geometry
-            - Algebraic number theory
+            - Algebraic Geometry
+            - Algebraic Number theory
 work-experiences:
     title: Work Experiences
     info:
@@ -133,10 +133,10 @@ educational-experiences:
 #    info:
 #      - title:
 #        time:
-#reviewer:
-#    title: Reviewer
-#    info:
-#      - title:
+reviewer:
+    title: Reviewer
+    info:
+      - title: ACCV 2022
 #journal-papers:
 #    title: Journal (refereed)
 #    intro:
@@ -146,15 +146,20 @@ educational-experiences:
 #        authors:
 #        publisher:
 #        supplement:
-#international-conference-refereed-papers:
-#    title: International Conference (refereed)
-#    intro:
-#    papers:
-#      - title:
-#        link:
-#        authors:
-#        conference:
-#        supplement:
+international-conference-refereed-papers:
+    title: International Conference (refereed)
+    intro:
+    papers:
+      - title: "RaftMLP: How Much Can Be Done Without Attention and with Less Spatial Locality?"
+        link: "https://arxiv.org/abs/2108.04384"
+        authors: Yuki Tatsunami, Masato Taki
+        conference: Asian Conference on Computer Vision (ACCV), 2022
+        supplement:
+      - title: "Sequencer: Deep LSTM for Image Classification"
+        link: "https://arxiv.org/abs/2205.01972"
+        authors: Yuki Tatsunami, Masato Taki
+        conference: Neural Information Processing Systems (NeurIPS), 2022.
+        supplement: acceptance rate 25.6%
 #international-conference-unrefereed-papers:
 #    title: International Conference (unrefereed)
 #    intro:
@@ -164,18 +169,14 @@ educational-experiences:
 #        authors:
 #        conference:
 #        supplement:
-technical-reports:
-    title: Technical Reports
-    intro:
-    papers:
-      - title: "Sequencer: Deep LSTM for Image Classification"
-        link: "https://arxiv.org/abs/2205.01972"
-        authors: Yuki Tatsunami, Masato Taki
-        supplement:
-      - title: "RaftMLP: How Much Can Be Done Without Attention and with Less Spatial Locality?"
-        link: "https://arxiv.org/abs/2108.04384"
-        authors: Yuki Tatsunami, Masato Taki
-        supplement:
+#technical-reports:
+#    title: Technical Reports
+#    intro:
+#    papers:
+#      - title:
+#        link:
+#        authors:
+#        supplement:
 #books:
 #    title:
 #    intro:
