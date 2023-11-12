@@ -113,6 +113,17 @@ work-experiences:
 educational-experiences:
     title: Educational Experiences
     info:
+      - role: Educational Mentor
+        time: 2023F
+        company: Rikkyo University
+      - role: Educational Mentor
+        time: 2023S
+        company: Rikkyo University
+      - role: Teaching Assistant in a Deep Learning Class
+        time: 2022F
+        company: Rikkyo University
+      - role: Educational Mentor
+        time: 2022F
       - role: Teaching Assistant in a Machine Learning Class
         time: 2022S
         company: Rikkyo University
@@ -151,12 +162,12 @@ international-conference-refereed-papers:
     intro:
     papers:
       - title: "RaftMLP: How Much Can Be Done Without Attention and with Less Spatial Locality?"
-        link: "https://arxiv.org/abs/2108.04384"
+        link: "https://openaccess.thecvf.com/content/ACCV2022/html/Tatsunami_RaftMLP_How_Much_Can_Be_Done_Without_Attention_and_with_ACCV_2022_paper.html"
         authors: Yuki Tatsunami, Masato Taki
         conference: Asian Conference on Computer Vision (ACCV), 2022
         supplement:
       - title: "Sequencer: Deep LSTM for Image Classification"
-        link: "https://arxiv.org/abs/2205.01972"
+        link: "https://proceedings.neurips.cc/paper_files/paper/2022/hash/f9d7d6c695bc983fcfb5b70a5fbdfd2f-Abstract-Conference.html"
         authors: Yuki Tatsunami, Masato Taki
         conference: Neural Information Processing Systems (NeurIPS), 2022.
         supplement: acceptance rate 25.6%
@@ -169,14 +180,14 @@ international-conference-refereed-papers:
 #        authors:
 #        conference:
 #        supplement:
-#technical-reports:
-#    title: Technical Reports
-#    intro:
-#    papers:
-#      - title:
-#        link:
-#        authors:
-#        supplement:
+technical-reports:
+    title: Technical Reports
+    intro:
+    papers:
+      - title: FFT-based Dynamic Token Mixer for Vision
+        link: "https://arxiv.org/abs/2303.03932"
+        authors: Yuki Tatsunami, Masato Taki
+        supplement:
 #books:
 #    title:
 #    intro:
@@ -202,16 +213,19 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Python & PyTorch
-        level: 92%
+        level: 95%
 
       - name: AWS
-        level: 84%
+        level: 85%
 
       - name: Javascript & React
         level: 35%
 
       - name: HTML5 & CSS
         level: 27%
+
+      - name: Flutter
+        level: 8%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
