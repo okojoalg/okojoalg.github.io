@@ -114,6 +114,9 @@ educational-experiences:
     title: Educational Experiences
     info:
       - role: Educational Mentor
+        time: 2024S
+        company: Rikkyo University
+      - role: Educational Mentor
         time: 2023F
         company: Rikkyo University
       - role: Educational Mentor
@@ -171,6 +174,11 @@ international-conference-refereed-papers:
         authors: Yuki Tatsunami, Masato Taki
         conference: Neural Information Processing Systems (NeurIPS), 2022.
         supplement: acceptance rate 25.6%
+      - title: FFT-based Dynamic Token Mixer for Vision
+        link: "https://arxiv.org/abs/2303.03932"
+        authors: Yuki Tatsunami, Masato Taki
+        conference: The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.
+        supplement: acceptance rate 23.75%
 #international-conference-unrefereed-papers:
 #    title: International Conference (unrefereed)
 #    intro:
@@ -180,14 +188,14 @@ international-conference-refereed-papers:
 #        authors:
 #        conference:
 #        supplement:
-technical-reports:
-    title: Technical Reports
-    intro:
-    papers:
-      - title: FFT-based Dynamic Token Mixer for Vision
-        link: "https://arxiv.org/abs/2303.03932"
-        authors: Yuki Tatsunami, Masato Taki
-        supplement:
+# technical-reports:
+#     title: Technical Reports
+#     intro:
+#     papers:
+#       - title: FFT-based Dynamic Token Mixer for Vision
+#         link: "https://arxiv.org/abs/2303.03932"
+#         authors: Yuki Tatsunami, Masato Taki
+#         supplement:
 #books:
 #    title:
 #    intro:
